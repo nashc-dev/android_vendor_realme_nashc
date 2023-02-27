@@ -118,6 +118,18 @@ dex_import {
 }
 
 dex_import {
+	name: "oplus-framework-telephony",
+	owner: "realme",
+	jars: ["proprietary/framework/oplus-framework-telephony.jar"],
+}
+
+dex_import {
+	name: "oplus-framework",
+	owner: "realme",
+	jars: ["proprietary/framework/oplus-framework.jar"],
+}
+
+dex_import {
 	name: "com.android.hotwordenrollment.common.util",
 	owner: "realme",
 	jars: ["proprietary/system_ext/framework/com.android.hotwordenrollment.common.util.jar"],

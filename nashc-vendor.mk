@@ -2282,6 +2282,8 @@ PRODUCT_PACKAGES += \
     mediatek-telephony-base \
     mediatek-telephony-common \
     mediatek-wfo-legacy \
+    oplus-framework-telephony \
+    oplus-framework \
     com.android.hotwordenrollment.common.util \
     android.hardware.neuralnetworks@1.3-service-mtk-dsp-gpu \
     android.hardware.usb@1.2-service-mediatekv2 \
